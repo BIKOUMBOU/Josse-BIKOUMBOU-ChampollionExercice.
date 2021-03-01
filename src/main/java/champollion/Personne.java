@@ -1,5 +1,5 @@
-
 package champollion;
+import java.util.*;
 
 
 public abstract class Personne {
